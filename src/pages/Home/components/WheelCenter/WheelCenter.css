@@ -1,0 +1,8 @@
+.wheel-center {
+    position: relative;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open sans', sans-serif;
+}

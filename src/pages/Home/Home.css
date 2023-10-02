@@ -1,0 +1,12 @@
+.spin-btn {
+    color: white;
+    border-radius: 40px;
+    background-color: #0fa1ea;
+    padding: 8px 24px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.spin-btn:hover {
+    opacity: 80%;
+}
